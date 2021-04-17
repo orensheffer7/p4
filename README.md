@@ -7,6 +7,6 @@ please refer to https://documenter.getpostman.com/view/13253547/TzJsexWX for doc
 * express
 * body-parser
 * cookie-parser
-* bcrypt
-* mongoose
-* jsonwebtoken 
+* bcrypt (pw enc-dec)
+* mongoose (mongo connection)
+* jsonwebtoken (dealing with JWT)
